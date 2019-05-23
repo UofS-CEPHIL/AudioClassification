@@ -1,0 +1,6 @@
+data/*
+feature/*
+figures/*
+OneSecondData/*
+__pycache__/*
+vggish_model.ckpt
